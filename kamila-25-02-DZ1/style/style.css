@@ -1,0 +1,39 @@
+.wrapper {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.email {
+    position: absolute;
+    top: 50%;
+    margin-top: 100px;
+}
+.password {
+    position: absolute;
+    top: 50%;
+    margin-top: 150px;
+}
+.password2 {
+    position: absolute;
+    top: 50%;
+    margin-top: 200px;
+}
+.check {
+    position: absolute;
+    top: 50%;
+    margin-top: 250px;
+}
+.big_block {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    background-color: black;
+}
+.min_block {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: chartreuse;
+}
+
+
